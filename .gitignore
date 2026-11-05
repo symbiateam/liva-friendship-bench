@@ -1,0 +1,6 @@
+data/
+outputs/
+work/
+ratings.jsonl
+__pycache__/
+.env

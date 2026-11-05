@@ -1,0 +1,7 @@
+numpy
+scipy
+soundfile
+requests
+websockets>=13
+torch
+torchaudio
